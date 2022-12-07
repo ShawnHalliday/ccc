@@ -32,6 +32,4 @@ int main(){
     else{
         cout<<"French";
     }
-
-    return 0;
 }
